@@ -7,9 +7,9 @@
 
 ### 🧐 About Me
 
-* 🔭 I am a Computer Science **Fresh Graduate**.
-* 🌱 Currently diving deep into **Clean Architecture**, API design, and database optimization.
-* 🤝 Open to discussions regarding **Backend Development**.
+* 🔭 I am a Computer Science Fresh Graduate.
+* 🌱 Currently diving deep into Clean Architecture, API design, and database optimization.
+* 🤝 Open to discussions regarding Backend Development.
 * 📫 How to reach me: fathanmf16@gmail.com
 * ⚡ Fun fact: I love experimenting with cooking techniques and food science when I'm not coding.
 
