@@ -1,14 +1,13 @@
 # Hi, I'm Fathan Muhammad Faqih! 👋
-
-> 💻 **Backend Developer** focused on the **Laravel** & **PHP** ecosystem.
+> 💻 **Backend-Focused Software Engineer** — Go (Golang) & Laravel.
+> 
 > 📍 Based in **Jakarta, Indonesia**.
-
+> 
+> 🌐 Portfolio: [churma.codes](https://churma.codes)
 ---
-
 ### 🧐 About Me
-
-* 🔭 I am a Computer Science Fresh Graduate.
-* 🌱 Currently diving deep into Go, React, and Express JS.
+* 🔭 Delivered a client-led inventory system in Go, from requirements to deployment.
+* 🌱 Currently deepening my expertise in Go for backend systems, while exploring cloud infrastructure (AWS).
 * 🤝 Open to discussions regarding Backend Development.
 * 📫 How to reach me: fathanmf16@gmail.com
 * ⚡ Fun fact: I love experimenting with cooking techniques and food science when I'm not coding.
