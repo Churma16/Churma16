@@ -18,12 +18,14 @@ Backend engineer focused on Go, Laravel, and Express, building systems with deli
 [![PHP](https://img.shields.io/badge/-PHP-272822?&logo=php)](https://www.php.net/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-272822?&logo=typescript)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-272822?&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-272822?&logo=python)](https://www.python.org/)
 
 **Frameworks**
 
 [![Laravel](https://img.shields.io/badge/-Laravel-272822?&logo=laravel)](https://laravel.com/)
 [![Express.js](https://img.shields.io/badge/-Express.js-272822?&logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/-React-272822?&logo=react)](https://react.dev/)
+[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-272822?&logo=codeigniter)](https://codeigniter.com/)
 
 **Databases**
 
@@ -38,6 +40,7 @@ Backend engineer focused on Go, Laravel, and Express, building systems with deli
 [![Nginx](https://img.shields.io/badge/-Nginx-272822?&logo=nginx)](https://nginx.org/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-272822?&logo=githubactions)](https://github.com/features/actions)
 [![Linux](https://img.shields.io/badge/-Linux-272822?&logo=linux)](https://www.linux.org/)
+[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-272822?&logo=digitalocean)](https://www.digitalocean.com/)
 
 **Messaging & Protocols**
 
@@ -50,6 +53,7 @@ Backend engineer focused on Go, Laravel, and Express, building systems with deli
 [![Git](https://img.shields.io/badge/-Git-272822?&logo=git)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/-Postman-272822?&logo=postman)](https://www.postman.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-272822?&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![cPanel](https://img.shields.io/badge/-cPanel-272822?&logo=cpanel)](https://cpanel.net/)
 
 ---
 
