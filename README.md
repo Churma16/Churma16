@@ -61,14 +61,16 @@ Backend engineer focused on Go, Laravel, and Express, building systems with deli
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Churma16&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Churma16&layout=compact&theme=monokai&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact&theme=monokai&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
+<!---
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Churma16&theme=monokai&hide_border=true" alt="GitHub Streak" />
-</div>
+</div> 
 
 ---
+-->
 
 ## Connect
 
