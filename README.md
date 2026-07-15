@@ -1,16 +1,12 @@
 # Fathan Muhammad Faqih
 
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F92672&width=620&lines=Backend-Focused+Software+Engineer;From+requirements+to+production+deployment.;Architecture+trade-offs+over+adopting+tech+by+default.;Jakarta%2C+Indonesia+%7C+churma.codes)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
 ## About Me
 
-Backend engineer focused on Go, Laravel, and Express — building systems with deliberate architecture decisions rather than just adopting tech by default. Navigates the full stack end-to-end when needed: also built the React + TypeScript frontend for the client POS system to understand the full request lifecycle. Recently shipped that system end-to-end, from requirements gathering to production. Currently exploring microservices and event-driven patterns (RabbitMQ, Kafka, gRPC) through self-directed projects. Based in Jakarta. Always open to engineering conversations.
+Backend engineer focused on Go, Laravel, and Express, building systems with deliberate architecture decisions rather than just adopting tech by default. Navigates the full stack end-to-end when needed: also built the React + TypeScript frontend for the client POS system to understand the full request lifecycle. Recently shipped that system end-to-end, from requirements gathering to production. Currently exploring microservices and event-driven patterns (RabbitMQ, Kafka, gRPC) through self-directed projects. Based in Jakarta. Always open to engineering conversations.
 
 ---
 
