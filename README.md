@@ -1,39 +1,78 @@
-# Hi, I'm Fathan Muhammad Faqih! 👋
-> 💻 **Backend-Focused Software Engineer** — Go (Golang) & Laravel.
-> 
-> 📍 Based in **Jakarta, Indonesia**.
-> 
-> 🌐 Portfolio: [churma.codes](https://churma.codes)
----
-### 🧐 About Me
-* 🔭 Delivered a client-led inventory system in Go, from requirements to deployment.
-* 🌱 Currently deepening my expertise in Go for backend systems, while exploring cloud infrastructure (AWS).
-* 🤝 Open to discussions regarding Backend Development.
-* 📫 How to reach me: fathanmf16@gmail.com
-* ⚡ Fun fact: I love experimenting with cooking techniques and food science when I'm not coding.
+# Fathan Muhammad Faqih
 
-### 🛠️ Tech Stack
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F92672&width=620&lines=Backend-Focused+Software+Engineer;From+requirements+to+production+deployment.;Architecture+trade-offs+over+adopting+tech+by+default.;Jakarta%2C+Indonesia+%7C+churma.codes)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 📫 Connect with Me
+## About Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fathan-muhammad-faqih)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fathanmf_)
-<!--
-**Churma16/Churma16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer focused on Go, Laravel, and Express — building systems with deliberate architecture decisions rather than just adopting tech by default. Navigates the full stack end-to-end when needed: also built the React + TypeScript frontend for the client POS system to understand the full request lifecycle. Recently shipped that system end-to-end, from requirements gathering to production. Currently exploring microservices and event-driven patterns (RabbitMQ, Kafka, gRPC) through self-directed projects. Based in Jakarta. Always open to engineering conversations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+
+[![Go](https://img.shields.io/badge/-Go-272822?&logo=go)](https://go.dev/)
+[![PHP](https://img.shields.io/badge/-PHP-272822?&logo=php)](https://www.php.net/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-272822?&logo=typescript)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-272822?&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Frameworks**
+
+[![Laravel](https://img.shields.io/badge/-Laravel-272822?&logo=laravel)](https://laravel.com/)
+[![Express.js](https://img.shields.io/badge/-Express.js-272822?&logo=express)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/-React-272822?&logo=react)](https://react.dev/)
+
+**Databases**
+
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-272822?&logo=postgresql)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-272822?&logo=mysql)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-272822?&logo=mongodb)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/-Redis-272822?&logo=redis)](https://redis.io/)
+
+**Infrastructure & DevOps**
+
+[![Docker](https://img.shields.io/badge/-Docker-272822?&logo=docker)](https://www.docker.com/)
+[![Nginx](https://img.shields.io/badge/-Nginx-272822?&logo=nginx)](https://nginx.org/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-272822?&logo=githubactions)](https://github.com/features/actions)
+[![Linux](https://img.shields.io/badge/-Linux-272822?&logo=linux)](https://www.linux.org/)
+
+**Messaging & Protocols**
+
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-272822?&logo=rabbitmq)](https://www.rabbitmq.com/)
+[![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-272822?&logo=apachekafka)](https://kafka.apache.org/)
+[![gRPC](https://img.shields.io/badge/-gRPC-272822?&logo=google)](https://grpc.io/)
+
+**Tools**
+
+[![Git](https://img.shields.io/badge/-Git-272822?&logo=git)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/-Postman-272822?&logo=postman)](https://www.postman.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-272822?&logo=visual-studio-code)](https://code.visualstudio.com/)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Churma16&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Churma16&layout=compact&theme=monokai&hide_border=true" height="170" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Churma16&theme=monokai&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-272822?&logo=linkedin)](https://linkedin.com/in/fathan-muhammad-faqih)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-272822?&logo=googlechrome)](https://churma.codes)
+[![Instagram](https://img.shields.io/badge/-Instagram-272822?&logo=instagram)](https://instagram.com/fathanmf_)
+[![Email](https://img.shields.io/badge/-Email-272822?&logo=gmail)](mailto:fathanmf16@gmail.com)
